@@ -1,0 +1,15 @@
+<RCC>
+  <qresource>
+    <file>Flags/BRL.png</file>
+    <file>Flags/CA-Flag.png</file>
+    <file>Flags/CNY.png</file>
+    <file>Flags/EUR.png</file>
+    <file>Flags/SEK.png</file>
+    <file>Flags/THB.png</file>
+    <file>Flags/UK-Flag.png</file>
+    <file>Flags/US-Flag.png</file>
+  </qresource>
+  <qresource>
+    <file>Other Images/Arrows.png</file>
+  </qresource>
+</RCC>
